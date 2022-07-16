@@ -1,5 +1,5 @@
 - 👋 Hi, James Thompson
-- 👀 I am interested in Computers! (well that not narrowing it down much) I have found a particular fondness of automating things and making non computer nerds lives better
+- 👀 I am interested in Computers! (well that not narrowing it down much). At my recent job I have found a particular enjoyment in automation, really just helping make peoples workflow better. Thus my work with AHK and Google's App script
 - 🌱 I’m currently sutdying a BSc at Massey University Majoring in Computer Science.
 - 📫 1jamesthompson1@gmail.com
 
