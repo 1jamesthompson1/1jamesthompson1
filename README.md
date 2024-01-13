@@ -14,8 +14,17 @@ My **favourite** languages are:
 - R
 - JS/TS
 
-I also have expereince in:
+I also have expereince with:
 - C++/C
 - Java
 
-Check out some of my repositories (sadly most of my substantive work over the past few years is private due to being for graded projects) below and have a great day!
+Check out some of my repositories to see some of my work.  
+_Note that due to being in university the last few years most of my owrk has to be private as it was for graded assignments._
+
+Some of my recent projects include:
+- Using LLMs to read transport accident investigation reports. https://github.com/1jamesthompson1/TAIC-report-summary
+- Developing a complete booking and invoive system for a music school. https://github.com/The-Rock-Academy
+- Working on and expanding an R statistic package to make it more accessible to vision impaired users. https://github.com/ajrgodfrey/BrailleR
+
+
+Have a great day!
