@@ -8,16 +8,6 @@ If you have any interesting project in this space that you think I should know a
 
 More updates about my work can be found on my [website](https://1jamesthompson1.github.io/) (that I endeavour to write on more often!).
 
-My **favourite** languages are:
-- Rust
-- Python
-- R
-- JS/TS
-
-I also have expereince with:
-- C++/C
-- Java
-
 Check out some of my repositories to see some of my work.  
 _Note that due to being in university the last few years most of my owrk has to be private as it was for graded assignments._
 
