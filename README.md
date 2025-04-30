@@ -2,7 +2,7 @@ Hello :wave:
 
 My name is James and I am most interested in using computers to help build a better world with AI/ML technologies.
 
-I am currently a Master of AI student at [Victoria University of Wellington](https://www.wgtn.ac.nz/) in 2023 I graduated from [Massey University](https://www.massey.ac.nz/) with a BSc in Computer Science. 
+I am currently a Master of AI student at [Victoria University of Wellington](https://www.wgtn.ac.nz/).
 
 If you have any interesting project in this space that you think I should know about you can contact me at 1jamesthompson1@gmail.com
 
