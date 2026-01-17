@@ -3,21 +3,22 @@
 ### Currently
 I am currently a Master of AI student at [Victoria University of Wellington](https://www.wgtn.ac.nz/).
 
-Very interested in AI safey (technical alignment, malignment evaluation), as well as Reinforcement Learning (Neuroevolution is an amazing intersection), Large Language Models.
+Very interested in AI safey (technical alignment, mis-alignment evaluation), as well as Reinforcement Learning (Neuroevolution is an amazing intersection), Large Language Models.
 
 I am always keen to here about any ideas and projects that involve using Artifical Compute to make the world a better place.
 
-[**CV**](https://github.com/1jamesthompson1/james_thompson_cv/blob/main/output/CV.pdf)
+[**CV**](https://raw.githubusercontent.com/1jamesthompson1/james_thompson_cv/main/output/CV.pdf)
 
-I techincally have a [website](https://1jamesthompson1.github.io/) (that I endeavour to write on more often!).
+I techincally have a [website](https://james.sjhl.nz/) (that I endeavour to write on more often!).
 
 ### Recent projects
 
 | name | description |
 | ---- | ----------- |
 | [TAIC engine](https://github.com/1jamesthompson1/TAIC-report-summary) | Using LLMs and classical NLP methods to scrape and curate a database of identified; safety issues, recommendations etc from various national agencies transport investigations groups. This database is used for analysis as well as powering multiple [smart tools](https://github.com/1jamesthompson1/TAIC_smart_assistant) used internally <br> _Funded by the New Zealand Transport Accident Investigation Commission_
-| [Exploring Deep Reinforcement learning for Continuous Robotic control](https://github.com/1jamesthompson1/AIML440_report/blob/main/output/JamesThompsonAIML440Report.pdf) | A project that involved exploring current SOTA methods for training agents to control robots in various simulated environments.<br>_Completed as part of Master of AI_|
-| [Getting a LLM to cheat at chess](https://github.com/1jamesthompson1/AIML430_capstone) | A study heavily inspired by reserach from Palisade research. Investigating the when and how various modern LLM cheat (replacing board, using chess engine, etc) when tasked with playing a game of chess.<br>_Completed as part of Master of AI_ |
+| [Aligning a LLM to the NZ public](https://raw.githubusercontent.com/1jamesthompson1/AIML501/main/output/AIML501_James_Thompson.pdf) | **Curently mid project!**, proposal (experiment and evaluation design) in first draft stage, experiments not yet commenced. This project will explore using democratically collected values to align a LLM to act in alignment with various subgroups of the New Zealand population. <br> _Complated as main Master of AI project_ |
+| [Exploring Deep Reinforcement learning for Continuous Robotic control](https://raw.githubusercontent.com/1jamesthompson1/AIML440_report/main/output/JamesThompsonAIML440Report.pdf) | A project that involved exploring current SOTA methods for training agents to control robots in various simulated environments.<br>_Completed as part of Master of AI_|
+| [Getting a LLM to cheat at chess](https://raw.githubusercontent.com/1jamesthompson1/AIML430_capstone/main/paper/output/paper.pdf) | A study heavily inspired by reserach from Palisade research. Investigating the when and how various modern LLM cheat (replacing board, using chess engine, etc) when tasked with playing a game of chess.<br>_Completed as part of Master of AI_ |
 
 ### Older projects
 
