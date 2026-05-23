@@ -1,15 +1,15 @@
-> My name is James and I am most interested in using computers to help build a better world with AI/ML technologies and also stopping AI/ML from making the world worse
+> My name is James and I am most interested in using computers to help build a better world with AI/ML technologies and stopping AI/ML from making the world worse
 
 ### Currently
 I am currently a Master of AI student at [Victoria University of Wellington](https://www.wgtn.ac.nz/).
 
-Very interested in AI safey (technical alignment, mis-alignment evaluation), as well as Reinforcement Learning (Neuroevolution is an amazing intersection), Large Language Models.
+Very interested in AI safety (technical alignment and mis-alignment evaluation) and making sure the next step change in intelligence leads to an increase in survival and flourishing of humans.
 
-I am always keen to here about any ideas and projects that involve using Artifical Compute to make the world a better place.
+Keen to hear about any projects and ideas in this space that I could be of use.
 
 [**CV**](https://raw.githubusercontent.com/1jamesthompson1/james_thompson_cv/main/output/CV.pdf)
 
-I techincally have a [website](https://james.sjhl.nz/) (that I endeavour to write on more often!).
+My [website](https://james.sjhl.nz/) (that I endeavour to write on more often!).
 
 ### Recent projects
 
